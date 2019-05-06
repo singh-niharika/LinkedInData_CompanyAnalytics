@@ -9,3 +9,8 @@ The dataset used for this analysis is [available at thinknum.](https://blog.thed
 For this project, I have used the data in the csv file. My future plan is to validate this model over other aspects of a company that defines its growth, such as stock prices and the number of available jobs. I will be using web-scraping to generate this data set and plan to employ multilinear regression and decision-tree based machine learning algorithms for analysis. 
 
 All relevant details are included in the jupyter notebook.
+
+## Future steps
+1. Scrape job postings, number of jobs filled and stock prices from LinkedIn, glassdoor and  Quandl for concrete models.
+2. Apply multilinear regression and decision-tree based machine learning algorthims for analysis.
+3. A sentiment analysis to find in demand skills of the top companies.
